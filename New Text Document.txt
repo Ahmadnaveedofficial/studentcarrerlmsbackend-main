@@ -1,0 +1,12 @@
+Teacher create 
+* Teacher name
+* Teacher designation 
+* Teacher email (check if email is already to the database then user shows already registered )
+* Teacher professionality
+* Teacher image url in the database 
+Delete 
+Update
+Teacher potrtal accesss remove (if staus active )
+Teacher fetch(read)
+Teacher(Detail according to the id )
+

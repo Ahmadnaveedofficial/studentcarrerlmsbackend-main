@@ -1,0 +1,19 @@
+[project]
+name = "studentcarrerlmsbackend"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "bcrypt<4.1",
+    "certifi>=2026.6.17",
+    "dotenv>=0.9.9",
+    "fastapi>=0.119.0",
+    "passlib[bcrypt]>=1.7.4",
+    "pydantic[email]>=2.12.3",
+    "pymongo>=4.15.3",
+    "python-jose>=3.5.0",
+    "python-multipart>=0.0.20",
+    "supabase>=2.22.2",
+    "uvicorn>=0.38.0",
+]
